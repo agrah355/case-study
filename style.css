@@ -21,3 +21,18 @@ body{
     border-radius: 10px;
     box-shadow: 5px 5px 18px grey;
 }
+#camera{
+    width: 310px;
+    height: 300px;
+    border-radius: 10px;
+}
+#image{
+    width: 310px;
+    height: 300px;
+    border-radius: 10px; 
+    box-shadow: 5px 5px 18px grey; 
+}
+.main_div button{
+    width: 150px;
+    text-align: center;
+}
